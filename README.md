@@ -1,7 +1,3 @@
-# Efficient Convolution
-Implementation of an efficient convolution algorithm between 3D and/or 4D tensors.
-
-> For further details we suggest to refer to the [slides][slides].
 
 ## Abstract
 The aim of this project is to implement the efficient Direct Convolution algorithm based on the paper [High Performance Zero-Memory Overhead Direct Convolutions][main-paper] by Zhang et al.
@@ -164,20 +160,7 @@ public:
 
 ## Info
 
-Authors: 
-
-- Filippo Guerranti* \<filippo.guerranti@student.unisi.it\>
-- Mirco Mannino* \<mirco.mannino@student.unisi.it\>
-
-> \* Equal contribution.
-
-We are M.Sc. students in Computer and Automation Engineering at [University of Siena][unisi], [Department of Information Engineering and Mathematical Sciences][diism]. This project is inherent the Design of Applications, Systems and Servises held by prof. [Sandro Bartolini][bartolini].
-
-For any suggestion or doubts please contact one us by email.
-
-Link to this project: [https://github.com/filippoguerranti/efficientconvolution][project]
-
-
+The main research project/publication that was referred to is listed below
 
 [main-paper]: http://proceedings.mlr.press/v80/zhang18d/zhang18d.pdf
 [concurrency-book]: https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition
